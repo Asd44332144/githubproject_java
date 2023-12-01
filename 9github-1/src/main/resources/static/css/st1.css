@@ -1,0 +1,32 @@
+@charset "BIG5";
+#header{
+	background-color: #ADFCFF;
+	width: 50%;
+	height:100px;
+	margin-left: 25%;
+	
+}
+#navigater{
+	
+	background-color:#8D4C50;
+	width: 50%;
+	height:35px;
+	margin-left: 25%;
+}
+#nav{
+	color:white;
+	padding-left:70%;
+	
+}
+#content{
+	background-color:#EAEDAB;
+	width: 50%;
+	height:600px;
+	margin-left: 25%;
+}
+#footer{
+	background-color:#B8CCC0;
+	width: 50%;
+	height:50px;
+	margin-left: 25%;
+}
