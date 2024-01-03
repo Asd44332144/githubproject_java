@@ -15,7 +15,7 @@ hkjhkjhk<br>
 
 [KIMO](http://tw.yahoo.com)
 
-[測試網頁](src/main/resources/static/index.html)
+[測試網頁](/src/main/resources/static/index.html)
 
 
 
